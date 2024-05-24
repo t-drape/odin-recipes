@@ -1,1 +1,3 @@
 # odin-recipes
+Prior to Project:
+    This project will be a basic website containing recipes for some of my favorite foods. By using the HTML basics learned through the past lessons, this lesson forces me to think creatively and critically to create a fully functioning website. With multiple pages, I will use almost every HTML element, like images and headings, while also utilizing links to knit every page together. By the end of this project, I will have built my very first website with HTML.
