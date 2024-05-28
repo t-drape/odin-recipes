@@ -1,3 +1,10 @@
-body {
-    background-color: green;
+h1 {
+    text-align: center;
+    font-family: "Brush Script MT", sans-serif;
+    font-weight: 100; 
+}
+
+li, a {
+    color: black;
+    padding-bottom: 5px;
 }
