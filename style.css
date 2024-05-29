@@ -23,7 +23,7 @@
     text-align: center;
 }
 
-.image.gr {
+.image {
     height: auto;
     width: 482px;
     opacity: .75;
@@ -38,4 +38,20 @@
 .citation em {
     font-size: 12px;
     font-family: "Copperplate", "Fantasy";
+}
+
+/* Takoyaki css */
+
+.tki {
+    background-color: lightslategrey;
+    text-align: center;
+}
+
+.items{
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.ct {
+    text-align: right;
 }
